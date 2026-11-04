@@ -1,10 +1,10 @@
 # rails_hello — integration app on the full CRails stack (Iteration 6).
 #
-# The Ruby reference lives in ../bench/rails_hello (Rails 8.1.1); this app
+# The Ruby reference lives in ../../bench/rails_hello (Rails 8.1.1); this app
 # is its 1:1 mirror. One HTTP harness (oracle/http_cases.rb) runs against
 # both; both must pass with the same oracle/expected.yml (AGENTS.md rule).
 
-RAILS_REF ?= ../bench/rails_hello
+RAILS_REF ?= ../../bench/rails_hello
 RAILS_PORT ?= 3100
 CRAILS_PORT ?= 3101
 
