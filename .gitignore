@@ -1,0 +1,7 @@
+lib/
+shard.lock
+tmp/
+*.dwarf
+*.log
+hello_world/hello/bin/app
+.DS_Store
